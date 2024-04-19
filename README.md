@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CatRivas
-- 👀 I’m interested in data science
+- 👋 Hi, I’m Cat Rivas
+- 👀 I’m interested in data science, web dev and data analytics
 - 🌱 I’m currently learning Python, PostgreSQL
 - 💞️ I’m looking to collaborate on awesome projects 
 - 📫 How to reach me tykale13@gmail.com
